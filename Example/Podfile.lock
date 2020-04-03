@@ -11,7 +11,7 @@ DEPENDENCIES:
   - JZYSaveLibrary (from `../`)
 
 SPEC REPOS:
-  trunk:
+  https://github.com/CocoaPods/Specs.git:
     - FBSnapshotTestCase
 
 EXTERNAL SOURCES:
@@ -20,8 +20,8 @@ EXTERNAL SOURCES:
 
 SPEC CHECKSUMS:
   FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
-  JZYSaveLibrary: c451cdb50ccbe28ae90357c7b4c5f8aad3663b57
+  JZYSaveLibrary: 4fc15c6ce55ef5363441739ce1135070a355d1db
 
-PODFILE CHECKSUM: 335d93476268775b80d250a632dc98d92b43b971
+PODFILE CHECKSUM: 8cdb13bc6efb6b7b74744447d35ba003c981efe9
 
 COCOAPODS: 1.9.1

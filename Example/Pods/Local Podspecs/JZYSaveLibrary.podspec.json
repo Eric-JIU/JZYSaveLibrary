@@ -1,7 +1,7 @@
 {
   "name": "JZYSaveLibrary",
   "version": "0.1.0",
-  "summary": "A short description of JZYSaveLibrary.",
+  "summary": "test JZYSaveLibrary.",
   "description": "TODO: Add long description of the pod here.",
   "homepage": "https://github.com/Eric-JIU/JZYSaveLibrary",
   "license": {
@@ -18,5 +18,6 @@
   "platforms": {
     "ios": "8.0"
   },
+  "requires_arc": true,
   "source_files": "JZYSaveLibrary/Classes/**/*"
 }

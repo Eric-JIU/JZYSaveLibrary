@@ -10,6 +10,7 @@
 #endif
 #endif
 
+#import "JZYUserDefaults.h"
 
 FOUNDATION_EXPORT double JZYSaveLibraryVersionNumber;
 FOUNDATION_EXPORT const unsigned char JZYSaveLibraryVersionString[];
