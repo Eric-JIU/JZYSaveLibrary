@@ -1,0 +1,6 @@
+framework module JZYSaveLibrary {
+  umbrella header "JZYSaveLibrary-umbrella.h"
+
+  export *
+  module * { export * }
+}
